@@ -1,0 +1,21 @@
+npm audit --omit=dev for mobile, before the fixes
+{"info":0,"low":1,"moderate":7,"high":9,"critical":1,"total":18}
+
+critical  shell-quote                       transitive
+high      @expo/cli                         transitive
+high      @react-navigation/core            transitive
+high      brace-expansion                   transitive
+high      decode-uri-component              transitive
+high      follow-redirects                  transitive
+high      node-forge                        transitive
+high      query-string                      transitive
+high      source-map-js                     transitive
+high      zod                               transitive
+low       deepmerge                         transitive
+moderate  @expo/config                      transitive
+moderate  @expo/config-plugins              transitive
+moderate  @expo/fingerprint                 transitive
+moderate  @expo/metro-config                transitive
+moderate  expo                              direct
+moderate  glob                              transitive
+moderate  minimatch                         transitive

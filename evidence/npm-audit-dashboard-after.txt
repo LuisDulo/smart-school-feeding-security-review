@@ -1,0 +1,18 @@
+npm audit --omit=dev for dashboard, after the fixes (ed57a99)
+@tootallnate/once  <2.0.1
+deepmerge  >=4.2.0
+nth-check  <2.0.1
+Severity: high
+postcss  <=8.5.22
+Severity: high
+qs  2.2.5 - 6.16.0
+Severity: moderate
+serialize-javascript  <=7.1.2
+Severity: high
+underscore  <=1.13.7
+Severity: high
+uuid  <11.1.1
+Severity: moderate
+webpack-dev-middleware  <7.4.5
+Severity: high
+36 vulnerabilities (16 low, 7 moderate, 13 high)
